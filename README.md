@@ -57,3 +57,5 @@ This project leverages **Machine Learning** to predict AQI based on pollutant le
 ---
 
 ## 📁 Project Structure
+
+📂 AQI-Prediction-Model/ │── 📄 README.md # Project Documentation │── 📜 app.py # Streamlit Web App Code │── 📊 air quality data set.csv # AQI Dataset │── 📜 AQI Prediction Model.ipynb # Model Training & Evaluation │── 📂 models/ # Trained models stored here │ ├── aqi_model.pkl # Final ML model (Random Forest) │── 📂 images/ # Screenshots & Visualizations └── 🔗 LICENSE # Open-source license
