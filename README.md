@@ -1,4 +1,3 @@
-# Air-Quality-Index-Predication-Model
 # 🌍 AQI Prediction Model – Air Quality Monitoring using Machine Learning
 
 ![AQI Banner](https://www.freepik.com/premium-photo/air-pollution-smog-over-city-skyline-environmental-disaster-concept_13223237.htm)  
